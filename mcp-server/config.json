@@ -1,0 +1,5 @@
+{
+  "geminiModel": "gemini-3.8-flash",
+  "defaultFramework": "react",
+  "maxImageBytes": 5000000
+}
