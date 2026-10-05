@@ -31,3 +31,6 @@ go.work.sum
 # Editor/IDE
 .idea/
 .vscode/
+/mcp-server/server
+/mcp-server/testclient
+/webapp/backend/backend-server
